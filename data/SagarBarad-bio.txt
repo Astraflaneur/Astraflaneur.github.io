@@ -1,0 +1,7 @@
+
+Sagar Prakash Barad is a master’s student in Physics with a minor in Computer Science at the National Institute of Science Education and Research (NISER), Bhubaneswar, India. His research lies at the intersection of machine learning, computer vision, quantum computing, and efficient deep learning. He is currently working on information-theoretic memory mechanisms for continual learning, graph pruning for scalable vision models, and hybrid state space–transformer architectures.
+
+He received the DAE–DISHA Fellowship from the Department of Atomic Energy and the Department of Science and Technology, Government of India (2020–2025), and the Academic Excellence Award from NISER in 2021 and 2022. He has also been selected for the Summer Research Internship Program (SRIP) at IIIT Bangalore and received the SERB Travel Grant and PAKDD Travel Award in 2024.
+
+His works have been accepted at IEEE IC-CGU (2024) and PAKDD (2025), with submissions under review at ICCV 2025 and CODS-COMAD. His research contributions span continual learning, quantum neural networks, and efficient graph-based models, with publications in IEEE Xplore and arXiv.
+
