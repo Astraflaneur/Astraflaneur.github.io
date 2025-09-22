@@ -1,6 +1,3 @@
-Got it — here’s the same minimal README, but with all emojis removed:
-
-````markdown
 # Sagar Barad - Research Website
 
 My personal academic website showcasing research, publications, and projects.  
@@ -46,8 +43,3 @@ Also supports static export for GitHub Pages.
 ---
 
 Built with love using Next.js and Tailwind CSS.
-
-```
-
-Do you want me to make an even **shorter one-page version** (just title, link, quick start, deploy) so it’s super lightweight?
-```
