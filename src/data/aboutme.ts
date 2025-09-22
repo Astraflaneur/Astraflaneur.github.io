@@ -33,11 +33,12 @@ Earlier research includes <em>adiabatic quantum computing with carbon nanotube q
 `,
   email: "sagarbarad118@gmail.com",
   imageUrl: "/images/sagar.jpeg", // 1:1 aspect ratio recommended
-  googleScholarUrl: "https://scholar.google.ru/citations?user=D3OF4rYAAAAJ",
+  googleScholarUrl: "https://scholar.google.com/citations?user=bxO69X0AAAAJ&hl",
   githubUsername: "Astraflaneur",
   linkedinUsername: "sagar-barad-b6114a201",
   twitterUsername: "SagarPr4kash",
   cvUrl: "/SagarBaradCV.pdf",
+  blogUrl: "https://astraflaneur.github.io/studio.notes/",
   // institutionUrl: "https://runwayml.com",
   secretDescription: "I synthesize things that people currently cannot.",
 };
