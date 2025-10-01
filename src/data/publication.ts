@@ -38,7 +38,8 @@ export const publicationData: Publication[] = [
     codeUrl: "https://github.com/Astraflaneur/EBGE",
     tldr:
       "Proposed an ML architecture to predict material band gaps and their types from easily computed material properties—removing the need for expensive DFT calculations.",
-    imageUrl: "/images/cgp.png",
+    imageUrl: "/images/ebge.presentation.png",
+    videoUrl: "/videos/ebge.presentation.video.mp4",
     award: "🎤 Oral Presentation",
   },
 
