@@ -50,7 +50,7 @@ export const publicationData: Publication[] = [
     title: "FastPath: Efficient Channel Reordering for Pruned Neural Networks via Graph Learning",
     authors: "S. P. Barad and S. Mishra",
     tldr:
-      "Proposed Fastpath, a graph reordering and selective pruning method that cuts redundant node features in GNNs. Applied to VisionGNN, GRaSP yields significant latency reduction on ImageNet and CIFAR-10 while preserving accuracy.",
+      "Proposed Fastpath, a graph reordering and selective pruning method that cuts redundant node features in GNNs. Applied to VisionGNN, our method yields significant latency reduction on ImageNet and CIFAR-10 while preserving accuracy.",
     imageUrl: "/images/fastpath.png",
     videoUrl: "/videos/fastpath.mp4"
   },

@@ -23,7 +23,7 @@ export const experienceData: Experience[] = [
     companyUrl: "https://www.niser.ac.in",
     position: "Researcher",
     description:
-      "Proposed <strong>Graph Reordering and Selective Pruning (GRaSP)</strong> to improve efficiency of GNNs. Applied to VisionGNN, achieving significant latency reduction on ImageNet and CIFAR-10 while preserving accuracy. <em>Under review at ICCV 2025</em>.",
+      "Proposed Fastpath method, to improve efficiency of GNNs. Applied to VisionGNN, achieving significant latency reduction on ImageNet and CIFAR-10 while preserving accuracy. <em>Under review at ICCV 2025</em>.",
     location: "Bhubaneswar, India",
   },
   {
