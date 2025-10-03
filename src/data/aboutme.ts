@@ -20,7 +20,7 @@ export interface AboutMe {
 export const aboutMe: AboutMe = {
   name: "Sagar Prakash Barad",
   title: "ML Researcher",
-  institution: "NISER Graduate Student & Upcoming Researcher @ Griffith University",
+  institution: "NISER Graduate Student",
   // Note that links work in the description
   description: `
 <p>
