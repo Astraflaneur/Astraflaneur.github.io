@@ -46,7 +46,7 @@ export const publicationData: Publication[] = [
   // ---- Under review / Presented ----
   {
     year: "2026 (under review)",
-    conference: "WSDM 2026 (under review)",
+    conference: "WSDM",
     title: "FastPath: Efficient Channel Reordering for Pruned Neural Networks via Graph Learning",
     authors: "S. P. Barad and S. Mishra",
     tldr:
@@ -56,7 +56,7 @@ export const publicationData: Publication[] = [
   },
   {
     year: "2025 (under review)",
-    conference: "Under review",
+    conference: "TMLR",
     title: "InfoGate: Information-Theoretic Gating for Continual Learning in Memory-Augmented Transformers",
     authors: "S. P. Barad and S. Mishra",
     tldr:
@@ -68,10 +68,10 @@ export const publicationData: Publication[] = [
     year: "2025",
     conference: "YRS Symposium / CODS-COMAD",
     title: "Parallel Tensor-Train Methods for High-Performance GPU Decomposition",
-    authors: "S. P. Barad et al.",
+    authors: "Archana Pujari, S. P. Barad*, and S. Mishra",
     tldr:
-      "Presented work on parallel TT decomposition and tensor unfolding strategies with GPU-resident pipelines, randomized sketching, and optimized contraction strategies for large-scale tensor factorization.",
+      "Presented an extended abstract parallel TT decomposition and tensor unfolding strategies with GPU-resident pipelines, randomized sketching, and optimized contraction strategies for large-scale tensor factorization.",
     imageUrl: "/images/tt-svd-arch.jpeg",
-    videoUrl: "/videos/gmt.mp4"
+    videoUrl: "/videos/tt-svd.mp4"
   }
 ];
